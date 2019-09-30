@@ -1,0 +1,6 @@
+tensorflow-gpu==2.0.0-rc1
+matplotlib
+numpy
+keras
+gast==0.2.2
+sklearn
